@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# Rollup output
+bundle.js
+bundle.js.map
